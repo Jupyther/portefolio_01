@@ -1,4 +1,4 @@
-# 01_Wildfire
+# Portefolio 01: Wildfires
 
 Le but principal de ce travail est de mettre en application de façon autonome une partie de mon apprentissage.  
 L'objectif de cette analyse est de savoir quelles corrélations existent entre les caractéristiques environnementales et la taille des feux de forêts.
