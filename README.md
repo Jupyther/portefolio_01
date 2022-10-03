@@ -1,4 +1,4 @@
-# wildfire_rapport
+# 01_Wildfire
 
 Le but principal de ce travail est de mettre en application de façon autonome une partie de mon apprentissage.
 
