@@ -1,6 +1,8 @@
 # wildfire_rapport
 
-Les données exploitées sont en accès libre aux sites suivants:  
+Le but principal de ce travail est de mettre en application de façon autonome une partie de mon apprentissage.
+
+Les données sont en accès libre aux sites suivants:  
     
   - "IGN – Inventaire forestier national français, Données brutes, Campagnes annuelles 2005 et suivantes, https://inventaire-forestier.ign.fr/dataIFN/, site consulté le 01/08/2022"  
   
